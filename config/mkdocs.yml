@@ -2,8 +2,8 @@
 # ------------------------
 site_name: CS3 Chemoinformatics Summer School 2024 # Name of the site
 site_url: https://fulopjoz.github.io/cs3-chemoinformatics-summer-school # Replace with your actual site URL
-site_dir: site # Directory where the built site files will be placed
-docs_dir: docs # Directory containing your documentation source files
+site_dir: ../site # Directory where the built site files will be placed
+docs_dir: ../docs # Directory containing your documentation source files
 
 # Repository configuration
 # ------------------------
