@@ -1,0 +1,57 @@
+# Obsidian files
+# ---------------
+# Exclude Obsidian workspace settings and cache
+**/.obsidian/workspace*
+**/.obsidian/workspace/*
+**/.obsidian/workspace.json
+
+# This file is used by Obsidian Git plugin to keep track of the last automatic backup/pull
+.obsidian-git-data
+
+# Exclude untitled notes created by Obsidian
+Untitled*
+
+# Exclude files with "bad" names (null)
+null*
+
+# System files
+# ------------
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Linux system files
+*~
+
+# Miscellaneous
+# -------------
+# Exclude backup files (usually end with .bak)
+*.bak
+
+# Exclude trash directories created by some OS or applications
+.trash/
+
+# Exclude files that might be created by merges, patches, etc.
+*.orig
+*.rej
+*.patch
+
+# Mkdocs build directory
+# -----------------------
+# Exclude the directory where MkDocs stores the built site
+/site
+
+# Python
+# ------
+# Exclude Python compiled files and caches
+__pycache__
+*.py[cod]
+*.pyo
+*.pyd
+
+# Exclude Python virtual environments
+venv/
+*.venv

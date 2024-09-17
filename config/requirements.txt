@@ -1,0 +1,40 @@
+# mkdocs: Static site generator built in Python. Converts Markdown files into a website.
+mkdocs==1.4.3
+
+# mkdocs-material: A material design theme for MkDocs. Provides a sleek and responsive design to the generated website.
+mkdocs-material==9.1.14
+
+# mkdocs-roamlinks-plugin: Plugin for MkDocs that provides support for wikilinks, similar to Roam Research and Obsidian.
+mkdocs-roamlinks-plugin==0.3.2
+
+# markdown: Python implementation of Markdown, a lightweight markup language. Used by MkDocs to convert Markdown files into HTML.
+markdown==3.3.7
+
+# pymdown-extensions: A collection of Markdown extensions that add more functionalities to the standard Markdown syntax.
+pymdown-extensions==10.0.1
+
+# pygments: A syntax highlighting package written in Python. Used in conjunction with Markdown to highlight code snippets.
+pygments==2.15.1
+
+# plantuml-markdown: Plugin to create UML diagrams using PlantUML syntax in Markdown files.
+plantuml-markdown==3.9.1
+
+# python-markdown-math: Adds support for displaying math formulas in MkDocs using LaTeX syntax.
+# Doesn't have a version
+python-markdown-math
+
+# markdown-exec[ansi]: Markdown extension for executing code blocks with ANSI support.
+markdown-exec[ansi]
+
+# scipy: Core library for scientific computing in Python.
+scipy
+
+
+# statsmodels: Python module for statistical models and tests.
+statsmodels
+
+
+
+# matplotlib: Library for creating static and interactive visualizations.
+matplotlib
+

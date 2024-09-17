@@ -1,0 +1,51 @@
+@media {
+    /* For slate color scheme (dark mode) */
+    [data-md-color-scheme=slate] strong {
+        color: #FF82B2; /*pink */
+    }
+
+    [data-md-color-scheme=slate] h2 {
+        color: #9EBCFF; /* blue */
+    }
+
+    [data-md-color-scheme=slate] h3 {
+        color: #37D597; /* green */
+    }
+
+    [data-md-color-scheme=slate] h4 {
+        color: #E5B567; /* yellow */
+    }
+
+    [data-md-color-scheme=slate] h5 {
+        color: #FA8D8D; /* red */
+    }
+
+    [data-md-color-scheme=slate] h6 {
+        color: #FDB0B0; /* pink */
+    }
+
+    /* For default color scheme (light mode) */
+    [data-md-color-scheme=default] strong {
+        color: #A95474; /*pink*/
+    }
+
+    [data-md-color-scheme=default] h2 {
+        color: #5C6F99; /* blue */
+    }
+
+    [data-md-color-scheme=default] h3 {
+        color: #1D7E58; /* green */
+    }
+
+    [data-md-color-scheme=default] h4 {
+        color: #886A3A; /* yellow */
+    }
+
+    [data-md-color-scheme=default] h5 {
+        color: #A45A5A; /* red */
+    }
+
+    [data-md-color-scheme=default] h6 {
+        color: #916363; /* pink */
+    }
+}
