@@ -1,15 +1,15 @@
 # Basic site configuration
 # ------------------------
-site_name: Notes for CVUT FIT # Name of the site
-site_url: http://sys0x.fit.subjects.gitlab.io/obsidian-school # Site URL
+site_name: CS3 Chemoinformatics Summer School 2024 # Name of the site
+site_url: https://fulopjoz.github.io/cs3-chemoinformatics-summer-school # Replace with your actual site URL
 site_dir: ../public # Directory where the built site files will be placed
-docs_dir: ../wiki # Directory containing your documentation source files
+docs_dir: ../docs # Directory containing your documentation source files
 
 # Repository configuration
 # ------------------------
-repo_url: https://gitlab.com/sys0x.fit.subjects/obsidian-school # URL to the source code repository
-repo_name: Sys0X School notes # Name of the source code repository
-edit_uri: -/blob/main/wiki # URI to the source file in the repository, used for the "Edit this page" links
+repo_url: https://gitlab.com/fulopjoz/chemoinformatics-summer-school # URL to your source code repository
+repo_name: CS3 Chemoinformatics Summer School Notes # Name of the source code repository
+edit_uri: -/blob/main/docs # URI to the source file in the repository, used for the "Edit this page" links
 
 # Theme configuration
 # -------------------
@@ -76,4 +76,3 @@ plugins:
   - search # Adds a search bar to the site
   - roamlinks # Support for wikilinks similar to Roam Research and Obsidian
   - markdown-exec # Support for execution of code blocks
-
